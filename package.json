@@ -1,0 +1,13 @@
+{
+  "name": "sports-streaks-bot",
+  "version": "1.0.0",
+  "description": "tweet current sports streaks",
+  "main": "index.js",
+  "repository": "https://github.com/alouiseq/sports-streaks.git",
+  "author": "Alouise Quiatchon",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
